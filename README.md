@@ -69,6 +69,7 @@
                        hot::2 dog
 
 ```
+---
 
 #### Optional Commands:    
 
@@ -136,3 +137,5 @@ Niji Style Options:
 
 - [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github "Markdown Guide")
 - [Follow Chain List of Midjourney Commands](https://www.followchain.org/midjourney-commands/)
+- [Advanced Midjourney Prompts](https://wgmimedia.com/how-to-use-midjourney-advanced-midjourney-prompts/#:~:text=Simply%20type%20%E2%80%9C/prefer%20option%20set%E2%80%9D.%20Add%20the,type%20in%20your%20prompt%20as%20the%20value.)
+
