@@ -15,7 +15,10 @@
 
 ---
 
-#### Commands and Prompts Examples:
+### Commands and Prompts Examples
+---    
+
+##### Using Curly Brackets `{Curly Brackets}`
 
 ```
 
@@ -55,22 +58,7 @@
 --style [4a, 4b, 4c]    (artistic fine-tuning for V4)
 --test, --testp, --creative (=test models, legacy)
 ```
-
 ---
-
-#### Niji Parameters:
-
-```
-
---niji / --niji 5     (anime trained model)
-Niji Style Options:
---style cute
---style expressive
---style sceenic
---style original
-
-```
-
 
 #### Weights:    
 
@@ -82,7 +70,7 @@ Niji Style Options:
 
 ```
 
-#### Option Commands:    
+#### Optional Commands:    
 
 ```
 /prefer option set [NAME OF OPTION] [VALUE]
@@ -112,19 +100,39 @@ Niji Style Options:
 
 ```
 
-/describe
 /blend
+/describe
+/fast (=toggle fast mode, jobs bill at higher rate)
+    /relax (=toggle free mode, longer to generate)
+/help (=info about the Midjourney bot)
+/imagine (= create art e.g. /imagine waffles and pancakes)
+/info (=show account info & queued jobs)
+/private (=your jobs are private)
+/public (=your jobs are public)        
+/settings (=change bot settings)
+/subscribe (=change subscription plan)
 /shorten
-/stealth & /public    (=toggle stealth mode)
-/fast & /relax        (=toggle fast mode)
-/info                 (=show account info & queued jobs)
-/settings             (=change bot settings)
-/subscribe            (=change subscription plan)
+/show <jobid> (=revive any job)
+/stealth & /public (=toggle stealth mode)    
+
+```
+---
+
+#### Niji Parameters Anime Trained Model:
 
 ```
 
+--niji / --niji 5     (anime trained model)
+Niji Style Options:
+--style cute
+--style expressive
+--style sceenic
+--style original
+
+```
 ---
-#### Helpful Links    
+
+##### Helpful Links & References
 
 - [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github "Markdown Guide")
-- 
+- [Follow Chain List of Midjourney Commands](https://www.followchain.org/midjourney-commands/)
