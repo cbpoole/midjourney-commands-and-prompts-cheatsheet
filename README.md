@@ -151,6 +151,7 @@ Niji Style Options:
 - [Free AI Image Enhancer](https://www.stickermule.com/upscale "Stickermule is an online product site for tees, stickers, mugs, etc")
 - [Free Snippet Tool for Cartoon Character Development: Figma](https://www.figma.com/)
 - [Free Image Compression](https://squoosh.app/)
+- [Hero.Page | Prompt Generator](https://hero.page/blog/chatgpt-and-midjourney-prompt-generator "Generate, Save & Share dynamic prompts in unlimited Lists and Spaces")
 - 
 ---
 
