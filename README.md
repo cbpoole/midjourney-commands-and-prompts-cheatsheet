@@ -8,8 +8,8 @@
 `/imagine prompt:` `[PREFIX]` `[SCENE]` `[SUFFIX]` `--[Parameters]`  
   
   - `PREFIX`: defines image medium & style.
-  - `SCENE`: defines content.
-  - `SUFFIX`: modulates Prefix & Scene
+  - `SCENE`: define the content.
+  - `SUFFIX`: controls influence of Prefix & Scene
 
 > NOTE: Categories overlap*
 
