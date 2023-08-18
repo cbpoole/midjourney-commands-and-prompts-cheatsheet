@@ -146,6 +146,7 @@ Niji Style Options:
 - [ChatGPT](https://chat.openai.com)
 - [Adobe Free BackGround Remover](https://www.adobe.com/express/feature/image/remove-background)
 - [Google Keep](https://keep.google.com)
+- - [Write Sonic](https://app.writesonic.com/signup?via=leverageai)    
 ---
 
 ###### Free Online Tools
