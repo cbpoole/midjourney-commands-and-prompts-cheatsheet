@@ -142,6 +142,7 @@ Niji Style Options:
 ###### AI Art Creation
 - [Midjourney](https://midjourney.com)
 - [Discord](https://discord.com "@staysintrouble")
+- [SoulGen.ai](https://www.soulgen.ai/)
 - [ChatGPT](https://chat.openai.com)
 - [Adobe Free BackGround Remover](https://www.adobe.com/express/feature/image/remove-background)
 - [Google Keep](https://keep.google.com)
@@ -157,6 +158,7 @@ Niji Style Options:
 
 ###### Guides
 - [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github "Markdown Guide")
+    - [Advanced Writing Formats](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)
 ---
 
 ##### Origastock
@@ -169,4 +171,14 @@ Niji Style Options:
 ##### Followchain
 - [List of Midjourney Commands](https://www.followchain.org/midjourney-commands/)
 - [Advanced Midjourney Prompts](https://wgmimedia.com/how-to-use-midjourney-advanced-midjourney-prompts/#:~:text=Simply%20type%20%E2%80%9C/prefer%20option%20set%E2%80%9D.%20Add%20the,type%20in%20your%20prompt%20as%20the%20value.)
+
+#### My Midjourney Wiki
+- [Wiki Home](https://github.com/cbpoole/midjourney-commands-and-prompts-cheatsheet/wiki)
+    - [Kid's Books](https://github.com/cbpoole/midjourney-commands-and-prompts-cheatsheet/wiki/Kids-Books)
+        - [Spirit of Shiloh](https://github.com/cbpoole/midjourney-commands-and-prompts-cheatsheet/wiki/Spirit-of-Shiloh)
+            - [Storyboard](https://github.com/cbpoole/midjourney-commands-and-prompts-cheatsheet/wiki/Storyboard-Vol-1)
+    - [Coloring Books](xxx)
+
+---
+
 
