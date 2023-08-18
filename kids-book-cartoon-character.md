@@ -6,7 +6,7 @@
 
 ### Prompts
 - `imagine` [The](https://cdn.discordapp.com/attachments/1140534663874609186/1141876893713444874/caseybpoole_The_adorable_little_girl_with_curly_brown_hairgreen_91db9c1a-3244-4081-9d55-74d235259eae.png "The Shiloh Grace - MY MAE BELLE!")  `adorable little girl with curly brown hair:green eyes:dark-golden skin` `confidently walks through her neighborhood`. A `distant perspective`, with `bright and vibrant colors`, in a `Disney:Pixar cartoon style`. --`ar` 2560:1080 --`s` 250
-- 
+- Credit [WGM Media](https://wgmimedia.com/midjourney-prompts-for-cartoon-characters/)
 ---
 ### Styles 
 - `/imagine` Kid's Book Illustration in Disney:Pixar style, Detailed
