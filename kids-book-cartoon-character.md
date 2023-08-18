@@ -1,8 +1,13 @@
-# Create a Disney Pixar Style Cartoon Character 
-`Midjourney` `Childrens Book`
+# Create Disney Pixar Style [Cartoon Characters](https://chat.openai.com/share/dc07af73-bcce-41c2-a45e-9a038d4e0d2b "List of Cartoon Characters' created with ChatGPT") 
+`Midjourney` `Childrens Book` `Design`
 
 ## Kid's Book Illustration    
+---
 
+### Prompts
+- `imagine` [The]( `adorable little girl with curly brown hair:green eyes:dark-golden skin` `confidently walks through her neighborhood`. A `distant perspective`, with `bright and vibrant colors`, in a `Disney:Pixar cartoon style`. --`ar` 2560:1080 --`s` 250
+- 
+---
 ### Styles 
 - `/imagine` Kid's Book Illustration in Disney:Pixar style, Detailed
   - `Prefer Option Set`
@@ -13,16 +18,15 @@
 
 #### [Shiloh](https://www.midjourney.com/app/jobs/53294a1d-c789-404f-8924-c9c3c16d762f/) [Grace](https://www.midjourney.com/app/jobs/9f0241f4-f262-469e-8f13-8941c2d0905b/)
   - `/imagine` little girl character, multiple poses & expressions, full body perspective, kid's book illustration in disney:pixar style, detailed, cute 6 year old girl, mixed-race, golden skin tone, full-colour, spring-like-curls curls of long brown hair, emerald-green eyes, denim overalls, white plain background --no outlines --s 250 --ar 1:1
-  - `/PREFER OPTION SET`
-    - Shiloh 
-
+  - `/PREFER OPTION SET` Shiloh
+  - `Seed` 990106299
+---
 #### [Yeseka](https://www.midjourney.com/app/jobs/a00ac05c-237a-43bf-b0ef-444b991b748c/ "Shiloh Grace Unseen -aka- Imaginary Friend -aka- Yeshua -shhh")   
 - `/imagine` [girl character](https://www.midjourney.com/app/jobs/ab360030-7402-41fb-b11d-c6c825b4596c/ "future princess modeled after Shiloh best friend from Ohdearsville Alaya"), multiple poses & expressions, children's book illustration in disney:pixar style, detailed, cute, 9 year old girl, full-colour, long dirty-blonde hair, bright blue eyes, sun dress, white plain background --no outlines --s 250
-
+---   
 ### I'm Gone Stay
   - `/imagine` Black kitten with yellow eyes    
     - ImGoneStay
 ---
-
 ### Scenes    
 ---
