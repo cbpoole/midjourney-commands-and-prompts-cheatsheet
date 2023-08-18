@@ -33,3 +33,5 @@
 ---
 ### Scenes    
 ---
+
+[08-18-23](https://wgmimedia.com/midjourney-prompts-for-cartoon-characters/)
