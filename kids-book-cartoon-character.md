@@ -51,6 +51,29 @@ Description:
 
 ---
 
+### Variation #1    
+
+![Befuddled Mr Bear](https://media.discordapp.net/attachments/1140534663874609190/1142515081997979748/caseybpoole_an_angry_brown_bear_with_shaggy_fur_and_giant_canin_3803e880-5cd0-4df6-bcc7-67fd7235d003.png?width=1440&height=603)    
+
+Description:    
+`/imagine` an angry brown bear with shaggy fur and giant canine teeth in the style of Baloo multiple poses and expressions. White background. No outlines. Full body. Disney:Pixar cartoon style animation. --ar 2560:1080   
+- `-- seed` 3300378752
+
+---
+
+![Variation #2](https://media.discordapp.net/attachments/1140534663874609190/1142515088696299703/caseybpoole_an_angry_brown_bear_with_shaggy_fur_and_giant_canin_15561827-bff4-444b-b09c-c986e30cdb79.png?width=1440&height=603)    
+
+Description:
+`/imagine` an angry brown bear with shaggy fur and giant canine teeth in the style of Baloo multiple poses and expressions. White background. No outlines. Full body. Disney:Pixar cartoon style animation. --ar 2560:1080    
+- `/seed` 3300378752
+
+---    
+
+### Character of Mr Bear    
+
+![Mr Bear in Dev](
+
+
 ---
 ### Scenes    
 ---
