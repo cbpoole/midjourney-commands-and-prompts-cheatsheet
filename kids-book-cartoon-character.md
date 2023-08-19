@@ -36,8 +36,24 @@
 ### I'm Gone Stay
   - `/imagine` Black kitten with yellow eyes    
     - ImGoneStay
+
+---
+
+### Mr Bear
+
+![Mr Bear Character Creation](https://media.discordapp.net/attachments/1140534663874609190/1142513185610530876/caseybpoole_an_angry_brown_bear_in_the_style_of_Baloo_multiple__a4443320-1bf9-44b1-be05-c17f7c8a4a74.png?width=1440&height=603)    
+
+Description:
+`/imagine` an angry brown bear in the style of Baloo multiple poses and expressions. White background. No outlines. Full body. Disney:Pixar cartoon style animation. --ar 2560:1080    
+- `--seed 2850402631
+
+---
+
 ---
 ### Scenes    
 ---
 
 [08-18-23](https://wgmimedia.com/midjourney-prompts-for-cartoon-characters/)
+
+
+
