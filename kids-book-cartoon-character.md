@@ -22,10 +22,12 @@
 ---
 ![image](https://github.com/cbpoole/midjourney-commands-and-prompts-cheatsheet/assets/141541233/bb3b647a-3ac3-45f3-8c01-bc099e2530bf)    
 ---
-  - --/`PREFER OPTION SET` Shiloh /`Seed` 990106299 `Hit` Enter
+  - --/`PREFER OPTION SET` Shiloh /`seed` 990106299 `Hit` Enter
 ---
 #### [Yeseka](https://www.midjourney.com/app/jobs/a00ac05c-237a-43bf-b0ef-444b991b748c/ "Shiloh Grace Unseen -aka- Imaginary Friend -aka- Yeshua -shhh")   
+    
 - `/imagine` [girl character](https://www.midjourney.com/app/jobs/ab360030-7402-41fb-b11d-c6c825b4596c/ "future princess modeled after Shiloh best friend from Ohdearsville Alaya"), multiple poses & expressions, children's book illustration in disney:pixar style, detailed, cute, 9 year old girl, full-colour, long dirty-blonde hair, bright blue eyes, sun dress, white plain background --no outlines
+- `seed` 
 
 ---
 ![image](
